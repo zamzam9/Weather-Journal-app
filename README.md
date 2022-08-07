@@ -18,4 +18,4 @@ It uses http methods (GET, POST) to fetch data from an external API and use it t
 5. Express
 
 ## References
-* [Mahmoud hegazy post](#https://nfpdiscussions.udacity.com/t/topic/396680)
+* [Mahmoud hegazy post](https://nfpdiscussions.udacity.com/t/topic/396680)
